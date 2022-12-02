@@ -1,53 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba962fe-a1eb-4e25-b224-44a2be319658" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day10/input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day1/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day1/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day1/2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day2/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day2/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day2/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/advendOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/advendOfCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/1/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/2/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/2/testInput.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/2/testInput.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day10/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day10/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/1/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/2/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/1/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/2/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day4/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day4/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/12/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day5/12/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/12/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day5/12/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/1/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/2/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/2/testInput.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/2/testInput.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/1/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/2/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/2/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/1/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/1/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/2/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/2/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/2/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/12/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day9/12/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/12/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day9/12/run.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3/1/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2370">
-              <caret line="159" column="21" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day10/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day10/input.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-            </state>
-          </provider>
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,12 +136,18 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1129" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2IJn9ZCzqWXHwykZN2wYxf8IfgS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,39 +167,33 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day9/12/3" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/niklasp/PycharmProjects/adventOfCode/2022/day2/2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niklasp\PycharmProjects\adventOfCode\2022\day2\2" />
+      <recent name="C:\Users\niklasp\PycharmProjects\adventOfCode\2022" />
+      <recent name="$PROJECT_DIR$/day9/12/3" />
+      <recent name="$PROJECT_DIR$/day9/2" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\niklasp\PycharmProjects\adventOfCode\2018" />
       <recent name="$PROJECT_DIR$/day9/1" />
       <recent name="$PROJECT_DIR$/day3/1" />
       <recent name="$PROJECT_DIR$/day1/1" />
       <recent name="$PROJECT_DIR$/Day1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day9/12/3" />
-      <recent name="$PROJECT_DIR$/day9/2" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/day8/2" />
-      <recent name="$PROJECT_DIR$/day7" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.runnnn">
+  <component name="RunManager">
     <configuration name="runnn2" type="PythonConfigurationType" factoryName="Python">
       <module name="advendOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,12 +222,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022/day1/1" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9/12/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022/day1/1/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,6 +241,7 @@
       <item itemvalue="Python.runnnn" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -266,6 +278,17 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/day1/2/input.csv">
