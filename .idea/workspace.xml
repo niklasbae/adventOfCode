@@ -5,55 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba962fe-a1eb-4e25-b224-44a2be319658" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2022/day1/1/input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day1/1/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day1/2/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day2/1/input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day2/1/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day2/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/advendOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/advendOfCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day3/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day3/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day3/2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day4/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day4/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day4/2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day5/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day5/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day5/2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day6/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day6/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day6/2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day7/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day7/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day7/2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/dayX/1/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/dayX/1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/dayX/2/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/1/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/2/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/2/testInput.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day1/2/testInput.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day10/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day10/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/1/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/2/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day2/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/1/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/1/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/2/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day3/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day4/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day4/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/12/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day5/12/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/12/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day5/12/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/1/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/1/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/2/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/2/testInput.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day6/2/testInput.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/1/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/1/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/2/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day7/2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/1/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/1/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/1/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/1/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/1/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/2/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/2/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/2/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/2/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day8/2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/12/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day9/12/input.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/12/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/day9/12/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,14 +143,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/Users/niklasp/PycharmProjects/adventOfCode/2022/day2/2",
+    "last_opened_file_path": "C:/Users/niklasp/PycharmProjects/adventOfCode/2022",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\niklasp\PycharmProjects\adventOfCode\2022\day2\2" />
       <recent name="C:\Users\niklasp\PycharmProjects\adventOfCode\2022" />
+      <recent name="C:\Users\niklasp\PycharmProjects\adventOfCode\2022\day2\2" />
       <recent name="$PROJECT_DIR$/day9/12/3" />
       <recent name="$PROJECT_DIR$/day9/2" />
       <recent name="$PROJECT_DIR$" />
